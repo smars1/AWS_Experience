@@ -1,1 +1,3 @@
-.env
+.venv
+aws_cdk\.venv
+aws_cdk
